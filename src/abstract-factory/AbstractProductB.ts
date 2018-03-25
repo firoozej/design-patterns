@@ -1,0 +1,3 @@
+interface AbstractProductB {
+    productOperation(): any;
+}
